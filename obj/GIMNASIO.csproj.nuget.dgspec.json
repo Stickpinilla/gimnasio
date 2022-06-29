@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pinilla\\source\\repos\\GIMNASIO\\GIMNASIO\\GIMNASIO.csproj": {}
+    "C:\\Users\\Mark-\\source\\repos\\Stickpinilla\\gimnasio\\GIMNASIO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pinilla\\source\\repos\\GIMNASIO\\GIMNASIO\\GIMNASIO.csproj": {
+    "C:\\Users\\Mark-\\source\\repos\\Stickpinilla\\gimnasio\\GIMNASIO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pinilla\\source\\repos\\GIMNASIO\\GIMNASIO\\GIMNASIO.csproj",
+        "projectUniqueName": "C:\\Users\\Mark-\\source\\repos\\Stickpinilla\\gimnasio\\GIMNASIO.csproj",
         "projectName": "GIMNASIO",
-        "projectPath": "C:\\Users\\Pinilla\\source\\repos\\GIMNASIO\\GIMNASIO\\GIMNASIO.csproj",
-        "packagesPath": "C:\\Users\\Pinilla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pinilla\\source\\repos\\GIMNASIO\\GIMNASIO\\obj\\",
+        "projectPath": "C:\\Users\\Mark-\\source\\repos\\Stickpinilla\\gimnasio\\GIMNASIO.csproj",
+        "packagesPath": "C:\\Users\\Mark-\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mark-\\source\\repos\\Stickpinilla\\gimnasio\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Pinilla\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Mark-\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
